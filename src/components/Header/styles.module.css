@@ -1,0 +1,30 @@
+.header {
+  background-color: #222;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  background-image: url('../../../static/img/headerbg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  color: white;
+}
+
+.headerContainer {
+  padding: 1rem;
+}
+
+.h1 {
+  font-size: 3rem;
+}
+
+.p {
+  font-size: 2rem;
+}
+
+.color {
+  color: #c0392b;
+}
+

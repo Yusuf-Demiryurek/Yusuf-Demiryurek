@@ -1,0 +1,54 @@
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;  
+  justify-content: center;
+  align-items: center;
+  max-width: 1060px;
+}
+
+.cardWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  padding: 0 1rem;
+  background-image: linear-gradient(
+    25deg,
+    var(--ifm-color-primary),
+    var(--ifm-color-primary-light),
+    var(--ifm-color-primary-lighter),
+    var(--ifm-color-primary-lightest)
+  );
+  border-radius: 0.5rem;
+}
+
+.cardWrapper:hover {
+  background-color: var(--ifm-color-primary-lightest);
+  box-shadow: rgb(51, 75, 153) 0px 0px 10px;
+}
+
+.cardWrapper:hover .image {
+  opacity: 1;
+  transition: ease-in 0.4s;
+  transform-style: preserve-3d;
+  transform: rotateZ(1turn);
+  -webkit-transform: rotateZ(1turn);
+  -moz-transform: rotateZ(1turn);
+  -o-transform: rotateZ(1turn);
+  -ms-transform: rotateZ(1turn);
+  cursor: pointer;
+}
+
+.image {
+  padding: 1rem;
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+}

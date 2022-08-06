@@ -11,8 +11,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Portfolio - ${siteConfig.title}`}
-      description="Portfolio personnel me permettant de partager mes compétences et mes projets">
+      title={`Portfolio`}
+      description="Portfolio personnel répertoriant mes réalisations en tant que développeur.">
       <Header/>
       <main>
         <Profile />

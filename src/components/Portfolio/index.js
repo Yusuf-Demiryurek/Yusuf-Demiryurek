@@ -56,7 +56,7 @@ const projectsList = [
   {
     name: "Musclay",
     status: "En cours de réalisation",
-    description: "Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier. Cette application a été réalisé par une équipe de 5 personnes comme projet de fin de formation",
+    description: "Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier. Cette application a été réalisé par une équipe de 4 personnes comme projet de fin de formation",
     stacks: ["React","Material UI","Express",],
     url: '',
     urlDisable: 'disabled',

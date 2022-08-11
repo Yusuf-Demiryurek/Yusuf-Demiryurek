@@ -31,7 +31,7 @@
 
 .cardWrapper:hover .image {
   opacity: 1;
-  transition: ease-in 0.4s;
+  transition: ease-in 0.8s;
   transform-style: preserve-3d;
   transform: rotateZ(1turn);
   -webkit-transform: rotateZ(1turn);

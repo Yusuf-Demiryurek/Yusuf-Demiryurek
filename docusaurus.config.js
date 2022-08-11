@@ -8,7 +8,7 @@ const config = {
   title: 'Yusuf Demiryurek',
   tagline: 'Développeur Full Stack',
   url: 'https://Yusuf-Demiryurek.github.io',
-  baseUrl: '/Yusuf-Demiryurek/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
@@ -66,7 +66,7 @@ const config = {
           {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#portfolio', label: 'Portfolio', position: 'left', activeBasePath: 'docs/null',},
           {to: '/blog', label: 'Blog', position: 'left', activeBasePath: 'docs/null',},
-          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-0e58eb5777096ec442de5e4d0c2991c3.pdf', label: 'Mon CV', position: 'right'},
+          {to: 'https://yusuf-demiryurek.github.io/assets/files/CV-Yusuf-DEMIRYUREK-0e58eb5777096ec442de5e4d0c2991c3.pdf', label: 'Mon CV', position: 'right'},
         ],
       },
       footer: {

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyusuf_demiryurek=self.webpackChunkyusuf_demiryurek||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hi there","permalink":"/Yusuf-Demiryurek/blog/mon-premier-post"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyusuf_demiryurek=self.webpackChunkyusuf_demiryurek||[]).push([[100],{3884:e=>{e.exports=JSON.parse('{"label":"Hello World","permalink":"/Yusuf-Demiryurek/blog/tags/hello-world","allTagsPath":"/Yusuf-Demiryurek/blog/tags","count":1}')}}]);

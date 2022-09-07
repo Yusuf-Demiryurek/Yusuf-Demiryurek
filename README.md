@@ -27,7 +27,7 @@
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
 | Bookmark | est une application permettant d'enregistrer tous les éléments culturels (livres, jeux vidéos, séries, films) que nous souhaitons commencer, avons commencé ou fini, tout en indiquant nos progressions | React / MUI / Firebase | <a target="_blank" href="https://bookmark-yd.web.app/">🔗</a> | <a target="_blank" href="https://github.com/Yusuf-Demiryurek/bookmark">🔗</a> |
-| Musclay            |  Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier | React / Express  | 🔗 | <a target="_blank" href="https://github.com/O-clock-De-Vinci/projet-musclay-front">🔗</a> |
+| Musclay            |  Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier | React / Laravel  | <a target="_blank" href="https://musclay.web.app/">🔗</a> | <a target="_blank" href="https://github.com/O-clock-De-Vinci/projet-musclay-front">🔗</a> |
 | Portofolio            |  Portfolio personnel | React / Docusaurus | <a target="_blank" href="https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/">🔗</a> | <a target="_blank" href="https://github.com/Yusuf-Demiryurek/Yusuf-Demiryurek">🔗</a> |
 
 

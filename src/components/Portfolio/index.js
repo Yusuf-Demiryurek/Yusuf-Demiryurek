@@ -6,6 +6,7 @@ const stackColor = {
   'React': 'success',
   'Material UI': 'primary',
   'Express': 'info',
+  'Laravel': 'secondary',
   'Firebase': 'danger',
 }
 
@@ -56,10 +57,10 @@ const projectsList = [
   {
     name: "Musclay",
     status: "En cours de réalisation",
-    description: "Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier. Cette application a été réalisé par une équipe de 4 personnes comme projet de fin de formation",
-    stacks: ["React","Material UI","Express",],
-    url: '',
-    urlDisable: 'disabled',
+    description: "Musclay est une application de sport. Celle-ci permet aux pratiquants de créer leurs entrainements et de les planifier. Cette application a été réalisée par une équipe de 4 personnes comme projet de fin de formation",
+    stacks: ["React","Material UI","Laravel",],
+    url: 'https://musclay.web.app/',
+    urlDisable: '',
     repo:'',
     repoDisable: 'disabled',
   },

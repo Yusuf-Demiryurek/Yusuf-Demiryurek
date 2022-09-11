@@ -57,17 +57,17 @@ const config = {
     ({
       navbar: {
         title: 'YD',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.png',
-        },
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.png',
+        // },
         items: [
           {to: '/#presentation', label: 'Presentation', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#certification', label: 'Certifications', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#portfolio', label: 'Portfolio', position: 'left', activeBasePath: 'docs/null',},
           {to: '/blog', label: 'Blog', position: 'left', activeBasePath: 'docs/null',},
-          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-09742b88d06630e10e148aacf7b7b853.pdf', label: 'Mon CV', position: 'right'},
+          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-9a1745c6132465ee7177072ea65deda9.pdf', label: 'Mon CV', position: 'right'},
         ],
       },
       footer: {

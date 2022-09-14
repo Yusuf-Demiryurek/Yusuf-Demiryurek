@@ -9,6 +9,7 @@
 .card {
   height: 380px;
   max-width: 360px;
+  margin:auto;
 }
 
 .link {

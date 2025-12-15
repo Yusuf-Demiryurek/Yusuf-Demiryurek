@@ -17,9 +17,9 @@ export default function Home() {
       <Header/>
       <main>
         <Profile />
+        <Portfolio />
         <Certification />
         <Stack />
-        <Portfolio />
         <ContactMe />
       </main>
     </Layout>

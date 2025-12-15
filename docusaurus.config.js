@@ -63,11 +63,11 @@ const config = {
         // },
         items: [
           {to: '/#presentation', label: 'Presentation', position: 'left', activeBasePath: 'docs/null',},
+          {to: '/#portfolio', label: 'Réalisations', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#certification', label: 'Certifications', position: 'left', activeBasePath: 'docs/null',},
-          {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},
-          {to: '/#portfolio', label: 'Portfolio', position: 'left', activeBasePath: 'docs/null',},
+          {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},          
           {to: '/blog', label: 'Blog', position: 'left', activeBasePath: 'docs/null',},
-          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-7150b972b77508498d12b79b357f375e.pdf', label: 'Mon CV', position: 'right'},
+          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-3e38255dccfdb27dcde42416dbe19dfe.pdf', label: 'Mon CV', position: 'right'},
         ],
       },
       footer: {

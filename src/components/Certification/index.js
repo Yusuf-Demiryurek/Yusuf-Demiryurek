@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./styles.module.css";
 import certifJavaScript from "@site/static/img/certifications/javascript.jpg";
 import certifPHP from "@site/static/img/certifications/php.jpg";
+import certifSAS from "@site/static/img/certifications/sas.png";
 
 const certifications = [
   {
@@ -13,6 +14,11 @@ const certifications = [
     name: "PHP",
     url: "https://www.codingame.com/certification/xtAfESTG9fvV8e5ZEeelcQ",
     img: certifPHP,
+  },
+  {
+    name: "SAS Base Programmer",
+    url: "https://www.youracclaim.com/badges/27377820-ca63-4806-a366-6523bed1840a/linked_in_profile",
+    img: certifSAS,
   },
 ];
 

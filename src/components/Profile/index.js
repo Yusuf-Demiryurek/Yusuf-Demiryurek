@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./styles.module.css";
 
 const presentation = {
-  text: "Développeur Fullstack et intégrateur ESB, je dispose d’une double compétence en développement web et en analyse de données. Actuellement en reconversion, je recherche un poste plus concret, orienté technique, terrain ou maintenance. Curieux, rigoureux et passionné par les environnements techniques, j’aime résoudre les problèmes de façon efficace.",
+  text: "Technicien polyvalent orienté systèmes, électrotechnique et maintenance, issu d’un parcours initial en développement informatique et intégration applicative. Actuellement en reconversion vers des fonctions plus concrètes et terrain, j’apprécie les environnements techniques où le diagnostic, la rigueur et la résolution de problèmes sont essentiels.",
 };
 
 export default function Profile() {

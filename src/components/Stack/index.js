@@ -10,7 +10,7 @@ import react from "@site/static/img/icon/react.png";
 import npm from "@site/static/img/icon/npm.png";
 import yarn from "@site/static/img/icon/yarn.png";
 import nodejs from "@site/static/img/icon/nodejs.png";
-import mongodb from "@site/static/img/icon/mongodb.png";
+//import mongodb from "@site/static/img/icon/mongodb.png";
 import bootstrap from "@site/static/img/icon/bootstrap.png";
 import github from "@site/static/img/icon/github.png";
 import redux from "@site/static/img/icon/redux.png";
@@ -39,14 +39,19 @@ const featuresAlreadyUse = [
   gridItem("HTML", html),
   gridItem("CSS", css),
   gridItem('Bootstrap', bootstrap),
+  gridItem('React Native', react),
+  gridItem("Node.js", nodejs),
+  gridItem('Express.js', expressjs),
 ];
 
+/*
 const featuresToLearn = [
   gridItem('React Native', react),
   gridItem("Node.js", nodejs),
   gridItem('Express.js', expressjs),
   gridItem("MongoDB", mongodb),
 ];
+*/
 
 export default function Stack() {
   return (
@@ -56,9 +61,9 @@ export default function Stack() {
 
       <FeatureList data={featuresAlreadyUse} />
 
-      <h3>En cours d'apprentissage</h3>
+{/*       <h3>En cours d'apprentissage</h3>
 
-      <FeatureList data={featuresToLearn} />
+      <FeatureList data={featuresToLearn} /> */}
 
     </section>
   );

@@ -11,7 +11,7 @@ function Header() {
         src={photo} /> */}
         <h1 className={styles.h1}>Yusuf Demiryurek</h1>
       </div>
-      <p className={styles.p}><strong className={styles.color}>Technicien&nbsp;</strong>support et maintenance
+      <p className={styles.p}><strong className={styles.color}>Analyste&nbsp;</strong>développeur
         <a style={{display:'none'}} target="\_blank" href={cv}> Mon CV </a>
         </p>
     </header>

@@ -67,7 +67,7 @@ const config = {
           {to: '/#certification', label: 'Certifications', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},          
           {to: '/blog', label: 'Blog', position: 'left', activeBasePath: 'docs/null',},
-          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-3e38255dccfdb27dcde42416dbe19dfe.pdf', label: 'Mon CV', position: 'right'},
+          {to: 'https://yusuf-demiryurek.github.io/Yusuf-Demiryurek/assets/files/CV-Yusuf-DEMIRYUREK-299be990e0ce520bf21f8e04f445a87f.pdf', label: 'Mon CV', position: 'right'},
         ],
       },
       footer: {

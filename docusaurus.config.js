@@ -62,7 +62,7 @@ const config = {
         //   src: 'img/logo.png',
         // },
         items: [
-          {to: '/#presentation', label: 'Presentation', position: 'left', activeBasePath: 'docs/null',},
+          {to: '/#presentation', label: 'Présentation', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#portfolio', label: 'Réalisations', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#certification', label: 'Certifications', position: 'left', activeBasePath: 'docs/null',},
           {to: '/#competence', label: 'Compétences', position: 'left', activeBasePath: 'docs/null',},          

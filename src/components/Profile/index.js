@@ -8,7 +8,7 @@ const presentation = {
 export default function Profile() {
   return (
     <section className={styles.profile} id="presentation">
-      <h2>Presentation 😎</h2>
+      <h2>Présentation 😎</h2>
       <div className="col col--11">
         <p className={styles.text}>{presentation.text}</p>
       </div>
